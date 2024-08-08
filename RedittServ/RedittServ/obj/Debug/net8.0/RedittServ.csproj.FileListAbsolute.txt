@@ -1,0 +1,14 @@
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\bin\Debug\net8.0\RedittServ.exe
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\bin\Debug\net8.0\RedittServ.deps.json
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\bin\Debug\net8.0\RedittServ.runtimeconfig.json
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\bin\Debug\net8.0\RedittServ.dll
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\bin\Debug\net8.0\RedittServ.pdb
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.AssemblyInfoInputs.cache
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.AssemblyInfo.cs
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.csproj.CoreCompileInputs.cache
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.dll
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\refint\RedittServ.dll
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.pdb
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\RedittServ.genruntimeconfig.cache
+C:\Users\SG_OC_BKP\source\repos\RedittServ\RedittServ\obj\Debug\net8.0\ref\RedittServ.dll
